@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayushgautam25
 - 👀 I’m interested in Java development
-- 🌱 I’m currently learning Core Java Concepts
+- 🌱 I’m currently implementing the JAVA concepts I have learned so far.
 <!--- 
 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
